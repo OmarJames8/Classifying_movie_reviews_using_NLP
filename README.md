@@ -1,6 +1,32 @@
-# Classifying_movie_reviews_using_NLP
-## Step One 
+# Text Data Mining
+***
 
--  NLP( Natural Language Processing)
-- How to determine if a review is positive or negative?
-- We use the Score/Rating. A rating of 4 or 5 could be considered a positive review. A review of 1 or 2 could be considered negative and a review of 3 is nuetral and ignored. This is an approximate and proxy way of determining the polarity (positivity/negativity) of a review.
+## Natural Language Processing (NLP) - Introduction
+- [Introduction to NLP](./NLP.ipynb)
+- [Applications of NLP](./NLP.ipynb)
+
+## How to build an NLP pipeline
+- [Sentence Segmentation](./NLP.ipynb)
+- [Word Tokenization](./NLP.ipynb)
+- [Identifying Stop Words](./NLP.ipynb)
+- [Stemming](./NLP.ipynb)
+- [Lemmatization](./NLP.ipynb)
+
+## Introduction to NLP models
+- [Bag of Words (BoW)](./NLP.ipynb)
+- [TF-IDF (term frequency-inverse document frequency)](./NLP.ipynb)
+
+## NLP Implementation in Python
+- [NLP Implementation](./NLP_implementation.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
